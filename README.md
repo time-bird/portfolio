@@ -1,6 +1,6 @@
 ## Folder & Files Text Counter（VSCode Extension)
 
-[https://github.com/time-bird/folder-word-counter](https://github.com/time-bird/folder-and-files-text-counter)
+https://github.com/time-bird/folder-and-files-text-counter
 
 VSCodeのエクスプローラー上でフォルダまたは複数テキストファイルを選択して文字数を合計する拡張機能のコードです。
 
